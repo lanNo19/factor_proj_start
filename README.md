@@ -1,1 +1,5 @@
-# factor_proj_start
+This project is unfinished and needs a lot of functional and polishing work. 
+
+However, I hope it demonstrates my capability to work on new and very interesting fields of computer science. During the given time period, I have tried many approaches, but this framework involving a lot of separated files, and RapidAPI was the best so far. It enables easy access to a variety of API's, among which is Shazam Core API. I was utilizing this exact framework due to its implemented functionality, in particular charts access. Unlike SpotifyAPI, this stack does not require user to log in, however still leaves choice for a user because of sorted by genres charts.
+
+I ask you to consider, that this is my first project in web development, and even though it was challenging, I managed to utilize very effective and hard methods such as API application and React libraries utilization.
